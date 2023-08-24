@@ -7,7 +7,8 @@ i added the heading to the page using the h1 tag and the created the hyperlinks 
 then i gave the hedding as h2 ie experience. and then added the paragraph.
 after that i added the horizontal rule also.
 ![Screenshot 2023-08-24 172356](https://github.com/divyanshrajpoot9/HTML/assets/114856467/ce66a8e2-9613-4d74-b718-0e39b9a32436)
-
+then i added the list and the paragraph.
 ![Screenshot 2023-08-24 172413](https://github.com/divyanshrajpoot9/HTML/assets/114856467/bf4a8711-d8c3-494a-8385-d55c78400de0)
-jk
+then i added the hobbies and then projects.
 ![Screenshot 2023-08-24 172428](https://github.com/divyanshrajpoot9/HTML/assets/114856467/7ef47394-8cb0-4595-84df-b48fee64a596)
+after that i added the contact details using the pree tag.
